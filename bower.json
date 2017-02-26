@@ -22,7 +22,7 @@
     "thumbnail",
     "resizing"
   ],
-  "main": "js/load-image.all.min.js",
+  "main": "js/load-image.js",
   "homepage": "https://github.com/mybrokenwalls/JavaScript-Load-Image",
   "private": true,
   "ignore": [
